@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much can I save on energy bills with proper insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our customers typically save 20-30% on their energy bills after our professional insulation installation. With current utility rebates and tax incentives, the payback period can be as short as 2-3 years."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer free estimates for insulation in NYC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We provide free, no-obligation estimates for all NYC homes and businesses. Our BPI-certified experts will assess your space and provide detailed recommendations with exact pricing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What rebates are available for insulation in NYC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As a certified National Grid and Con Edison contractor, we can help you access rebates up to $4000 for insulation projects. Additional state and federal incentives may also be available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of insulation do you install?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We specialize in spray foam insulation (both open and closed cell), blown-in insulation, batt insulation, and attic insulation solutions. All installations are performed by our NYSERDA-certified technicians."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a spray foam insulation installation take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most residential spray foam insulation projects can be completed in 1-2 days, depending on the size of your home and the areas being insulated. Our team works efficiently to minimize disruption to your daily routine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you serve all NYC boroughs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide insulation services throughout all five boroughs of NYC including Brooklyn, Manhattan, Queens, Staten Island, and the Bronx, as well as Long Island and surrounding areas."
+      }
+    }
+  ]
+}
